@@ -1,3 +1,26 @@
+# Employee Task Management App
+
+A role-based task management dashboard built using React and Context API.
+
+## Features
+- Admin & Employee login
+- Role-based dashboards
+- Admin can create and assign tasks
+- Live task updates using Context API
+- Task status tracking (New, Active, Completed, Failed)
+- Persistent data using localStorage
+
+## Tech Stack
+- React (Vite)
+- Tailwind CSS
+- Context API
+
+## How to run locally
+```bash
+npm install
+npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
