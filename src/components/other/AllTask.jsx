@@ -24,7 +24,7 @@ const AllTask = () => {
             window.location.reload()
           }} className='m-1 border-2 border-green-500 p-3 flex justify-between rounded-xl hover:opacity-90 cursor-pointer'>
           <h1 >{e.name}</h1>
-          <h1>{elem.description}</h1>
+          <h1>{elem.title}</h1>
           <h1>{elem.category}</h1>
         </div>)
         })
