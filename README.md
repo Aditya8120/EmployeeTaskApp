@@ -15,7 +15,26 @@ A role-based task management dashboard built using React and Context API.
 - Tailwind CSS
 - Context API
 
+---
 
+## 🔐 Demo Credentials
+
+### Admin Login
+| Email | Password |
+|---|---|
+| admin@company.com | 123 |
+
+### Employee Logins
+| Name | Email | Password |
+|---|---|---|
+| Aditya Johari | employee1@company.com | 123 |
+| Rohan Verma | employee2@company.com | 123 |
+| Priya Singh | employee3@company.com | 123 |
+| Aman Gupta | employee4@company.com | 123 |
+| Neha Sharma | employee5@company.com | 123 |
+| Sahil Mehta | employee6@company.com | 123 |
+
+---
 
 # React + Vite
 
